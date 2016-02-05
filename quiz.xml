@@ -1,4 +1,4 @@
-<?xml version="1.0" endoding="UTF-8" standlone="yes"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <quiz>
 <question type="matching">
 	<name>
@@ -33,7 +33,7 @@
 	<penalty>1</penalty>
 	<defaultgrade>1</defaultgrade>
 	<answer fraction="100">
-		<text>Ceci est la bonne réponse<text>
+		<text>Ceci est la bonne réponse</text>
 		<feedback>
 			<text>Bravo !</text>
 		</feedback>
