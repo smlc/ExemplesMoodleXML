@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" endoding="UTF-8" standlone="yes"?>
 <question type=multichoice>
 	<name>
 		<text>Demo question à choix multiples</text>
