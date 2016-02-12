@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <question type="matching">
 	<name>
-<<<<<<< HEAD
-		<text>Queston d'appariement</text>
+		<text>Ques appariement</text>
 
-=======
-		<text>Demo question (modif marlon) d'appariement</text>
->>>>>>> 0c6e6929ce88e366957c633014a58c8dd2c48c1d
 	</name>
 	<questiontext format="html">
 		<text>Quel est la bonne réponse ?</text>
